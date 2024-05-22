@@ -59,7 +59,6 @@ public class MenuApplication {
 					buscarTodasMusicas();
 				}
 				case "4" -> {
-
 					buscarMusicasPorArtista();
 				}
 				case "5" -> {
